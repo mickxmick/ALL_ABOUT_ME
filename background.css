@@ -1,0 +1,11 @@
+body{
+
+
+}
+
+  #grad1{
+
+
+    height:600px
+    background-image:linear-gradient("DarkMagenta","LightCoral","YellowGreen","GreenYellow","SkyBlue","indigo","violet")
+  }
