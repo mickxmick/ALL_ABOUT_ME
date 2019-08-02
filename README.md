@@ -1,2 +1,2 @@
 # ALL_ABOUT_ME
-This a website about ME!
+This is a website about ME!
